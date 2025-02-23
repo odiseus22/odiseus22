@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on C# .net JavaScript HTML Python Cryptos Fullstack
+🔭 I’m currently working on C# .net JavaScript HTML Python Cryptos Fullstack  <br>
 🌱 I’m currently lokking for learn new things smart contracts, mobile apps development, IA Development
 <!--
 **odiseus22/odiseus22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
